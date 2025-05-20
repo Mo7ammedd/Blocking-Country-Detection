@@ -1,0 +1,17 @@
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.csproj.AssemblyReference.cache
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.AssemblyInfoInputs.cache
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.AssemblyInfo.cs
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.csproj.CoreCompileInputs.cache
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Services.deps.json
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Services.dll
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Services.pdb
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Core.dll
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Repository.dll
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Core.pdb
+/home/mohammed/Desktop/BD/BD.Services/bin/Debug/net8.0/BD.Repository.pdb
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Servi.5D970503.Up2Date
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.dll
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/refint/BD.Services.dll
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/BD.Services.pdb
+/home/mohammed/Desktop/BD/BD.Services/obj/Debug/net8.0/ref/BD.Services.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BD.Repository/1.0.0": {
+        "dependencies": {
+          "BD.Core": "1.0.0"
+        },
+        "runtime": {
+          "BD.Repository.dll": {}
+        }
+      },
+      "BD.Core/1.0.0": {
+        "runtime": {
+          "BD.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BD.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BD.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

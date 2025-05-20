@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mohammed/Desktop/BD/BD.Repository/BD.Repository.csproj": {}
+  },
+  "projects": {
+    "/home/mohammed/Desktop/BD/BD.Core/BD.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mohammed/Desktop/BD/BD.Core/BD.Core.csproj",
+        "projectName": "BD.Core",
+        "projectPath": "/home/mohammed/Desktop/BD/BD.Core/BD.Core.csproj",
+        "packagesPath": "/home/mohammed/.nuget/packages/",
+        "outputPath": "/home/mohammed/Desktop/BD/BD.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mohammed/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/dwnqnnpnnxjvfkq7rqpn47mp6r8drg55-dotnet-sdk-8.0.311/share/dotnet/sdk/8.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mohammed/Desktop/BD/BD.Repository/BD.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mohammed/Desktop/BD/BD.Repository/BD.Repository.csproj",
+        "projectName": "BD.Repository",
+        "projectPath": "/home/mohammed/Desktop/BD/BD.Repository/BD.Repository.csproj",
+        "packagesPath": "/home/mohammed/.nuget/packages/",
+        "outputPath": "/home/mohammed/Desktop/BD/BD.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mohammed/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/mohammed/Desktop/BD/BD.Core/BD.Core.csproj": {
+                "projectPath": "/home/mohammed/Desktop/BD/BD.Core/BD.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/dwnqnnpnnxjvfkq7rqpn47mp6r8drg55-dotnet-sdk-8.0.311/share/dotnet/sdk/8.0.311/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
